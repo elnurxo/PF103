@@ -1,0 +1,4 @@
+functions - regular, anonym, expression, arrow
+string methods
+array methods - basics
+search, sort, iteration methods
