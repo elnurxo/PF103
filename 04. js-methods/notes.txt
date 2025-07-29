@@ -1,5 +1,5 @@
 string search methods +
 math object +
 date object +
-array basic methods
+array basic methods +
 functions pt.2
