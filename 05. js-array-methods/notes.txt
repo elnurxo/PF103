@@ -1,0 +1,6 @@
+string methods (search)
+array-basic-methods
+regex
+math & date object
+array basic methods
+callbacks
